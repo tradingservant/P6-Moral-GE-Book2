@@ -1,0 +1,11 @@
+{
+  "name": "p6-ge-book2-practice",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "node --test --test-timeout 180000 tests/*.test.js"
+  },
+  "devDependencies": {
+    "puppeteer-core": "^24.15.0"
+  }
+}

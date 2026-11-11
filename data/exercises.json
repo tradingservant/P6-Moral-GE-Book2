@@ -1,0 +1,1516 @@
+{
+  "meta": {
+    "title": "Module 2 online practice: Helping our world",
+    "curriculum": "Hong Kong Primary 6; British school English",
+    "source": "GE Booklet 2, in-scope printed pages only (P.11–16 excluded)",
+    "language": {
+      "directions": "Formal written Traditional Chinese",
+      "items_and_feedback": "British English; short Chinese reminders allowed in hints"
+    },
+    "total_items": 62,
+    "design_principle": "Paper and online practise the same gaps; some stems overlap. Use in separate sessions, not as independent parallel tests. Distractors follow errors actually marked in the booklet. Teacher corrections are not treated as mastery. Grammatically plausible alternatives are accepted and are not taught as wrong. Shall we / either…or is an optional extension from the P.1 goals only, not core practice.",
+    "total_scored_items": 62,
+    "station_counts": {
+      "station-1": 10,
+      "station-2": 8,
+      "station-3": 12,
+      "station-4": 7,
+      "station-5": 8,
+      "station-6": 6,
+      "station-7": 6,
+      "station-8": 5
+    },
+    "core_scored_items": 57,
+    "optional_scored_items": 5
+  },
+  "stations": [
+    {
+      "id": "station-1",
+      "title": "Natural disaster vocabulary",
+      "title_zh": "第一站　自然災害詞彙",
+      "student_direction_zh": "請閱讀描述，選出正確的自然災害名稱。最後兩題只是簡短的冠詞練習（a / an）。每題只有一個正確答案。",
+      "skill": "Natural disaster names; two light a/an items (earthquake, tsunami)",
+      "rationale": "Booklet P.1: tsunami and earthquake pictures were swapped. a/an is limited to two focused items; *a avalanche* was ticked in the booklet and is not treated as a marked error to drill.",
+      "item_count": 10,
+      "items": [
+        {
+          "id": "s1-q1",
+          "type": "mcq",
+          "prompt": "The ground shakes. Houses may collapse and people may be trapped inside. What is this?",
+          "options": [
+            "a tsunami",
+            "an earthquake",
+            "a tornado",
+            "an avalanche"
+          ],
+          "answer": "an earthquake",
+          "distractors": [
+            "a tsunami",
+            "a tornado",
+            "an avalanche"
+          ],
+          "hint": "Think about the ground moving, not a wave from the sea.",
+          "feedback_correct": "Yes. When the ground shakes and buildings fall, it is an earthquake.",
+          "feedback_incorrect": "Not quite. A tsunami is a huge sea wave. An earthquake is when the ground shakes.",
+          "feedback_by_option": {
+            "a tsunami": "That was the mix-up on booklet P.1. A tsunami is a huge wave from the sea. Collapsing houses after the ground shakes point to an earthquake.",
+            "an earthquake": "Correct.",
+            "a tornado": "A tornado is a spinning column of air, not the ground shaking.",
+            "an avalanche": "An avalanche is snow sliding down a mountain."
+          },
+          "acceptable_answers": [
+            "an earthquake"
+          ]
+        },
+        {
+          "id": "s1-q2",
+          "type": "mcq",
+          "prompt": "A huge wave rushes from the sea onto the land and hits the houses near the shore. What is this?",
+          "options": [
+            "an earthquake",
+            "a flood from a river only",
+            "a tsunami",
+            "a drought"
+          ],
+          "answer": "a tsunami",
+          "distractors": [
+            "an earthquake",
+            "a flood from a river only",
+            "a drought"
+          ],
+          "hint": "The water comes from the sea as one huge wave.",
+          "feedback_correct": "Yes. A tsunami is a huge wave from the sea.",
+          "feedback_incorrect": "Look again: a huge wave from the sea is a tsunami, not an earthquake.",
+          "feedback_by_option": {
+            "an earthquake": "On booklet P.1 this picture was labelled earthquake by mistake. The sea wave is a tsunami.",
+            "a flood from a river only": "A river flood is also water, but the clue here is a huge wave from the sea.",
+            "a tsunami": "Correct.",
+            "a drought": "A drought is a long time with little or no rain."
+          },
+          "acceptable_answers": [
+            "a tsunami"
+          ]
+        },
+        {
+          "id": "s1-q3",
+          "type": "mcq",
+          "prompt": "There is no rain for many months. The soil cracks and farmers cannot grow crops. What is this?",
+          "options": [
+            "a flood",
+            "a drought",
+            "a wildfire",
+            "an avalanche"
+          ],
+          "answer": "a drought",
+          "hint": "No rain, dry land, no crops.",
+          "feedback_correct": "Yes. A long time with little or no rain is a drought.",
+          "feedback_incorrect": "This is a drought: the land is too dry to grow crops.",
+          "acceptable_answers": [
+            "a drought"
+          ],
+          "distractors": null,
+          "feedback_by_option": null
+        },
+        {
+          "id": "s1-q4",
+          "type": "mcq",
+          "prompt": "Hot lava and ash come out of a mountain. What is this?",
+          "options": [
+            "a wildfire",
+            "a tornado",
+            "a volcanic eruption",
+            "an earthquake"
+          ],
+          "answer": "a volcanic eruption",
+          "hint": "Think of a volcano.",
+          "feedback_correct": "Yes. Lava and ash come from a volcanic eruption.",
+          "feedback_incorrect": "Lava and ash come out of a volcano. That is a volcanic eruption.",
+          "acceptable_answers": [
+            "a volcanic eruption"
+          ],
+          "distractors": null,
+          "feedback_by_option": null
+        },
+        {
+          "id": "s1-q5",
+          "type": "mcq",
+          "prompt": "A spinning column of air moves across the land and can blow roofs off houses. What is this?",
+          "options": [
+            "a tornado",
+            "a tsunami",
+            "a typhoon only",
+            "an avalanche"
+          ],
+          "answer": "a tornado",
+          "hint": "Look for the spinning funnel of air.",
+          "feedback_correct": "Yes. That spinning column of air is a tornado.",
+          "feedback_incorrect": "A spinning funnel of air that can blow roofs off is a tornado.",
+          "acceptable_answers": [
+            "a tornado"
+          ],
+          "distractors": null,
+          "feedback_by_option": null
+        },
+        {
+          "id": "s1-q6",
+          "type": "mcq",
+          "prompt": "Heavy rain falls for days. Streets and homes are covered with water from the river. What is this?",
+          "options": [
+            "a tsunami",
+            "a drought",
+            "a flood",
+            "an avalanche"
+          ],
+          "answer": "a flood",
+          "hint": "River water covering the streets is not the same as a sea wave.",
+          "feedback_correct": "Yes. Streets and homes covered with water from heavy rain or a river make a flood.",
+          "feedback_incorrect": "This is a flood. A tsunami is a huge wave from the sea.",
+          "acceptable_answers": [
+            "a flood"
+          ],
+          "distractors": null,
+          "feedback_by_option": null
+        },
+        {
+          "id": "s1-q7",
+          "type": "mcq",
+          "prompt": "A large amount of snow and ice slides suddenly down a mountain. What is this?",
+          "options": [
+            "a landslide of soil only",
+            "an avalanche",
+            "a volcanic eruption",
+            "a flood"
+          ],
+          "answer": "an avalanche",
+          "hint": "The moving material is snow and ice.",
+          "feedback_correct": "Yes. Snow and ice sliding down a mountain is an avalanche.",
+          "feedback_incorrect": "Snow and ice sliding down a mountain is an avalanche.",
+          "acceptable_answers": [
+            "an avalanche"
+          ],
+          "distractors": null,
+          "feedback_by_option": null
+        },
+        {
+          "id": "s1-q8",
+          "type": "mcq",
+          "prompt": "Dry trees and grassland are burning out of control. What is this?",
+          "options": [
+            "a flood",
+            "a wildfire",
+            "a drought",
+            "a tornado"
+          ],
+          "answer": "a wildfire",
+          "acceptable_answers": [
+            "a wildfire"
+          ],
+          "distractors": [
+            "a flood",
+            "a drought",
+            "a tornado"
+          ],
+          "hint": "The trees and grass are on fire.",
+          "feedback_correct": "Yes. Trees and grassland burning out of control make a wildfire.",
+          "feedback_incorrect": "When dry trees and grassland burn out of control, it is a wildfire.",
+          "feedback_by_option": null
+        },
+        {
+          "id": "s1-q9",
+          "type": "mcq",
+          "prompt": "Choose the correct article: _____ earthquake",
+          "options": [
+            "a",
+            "an"
+          ],
+          "answer": "an",
+          "acceptable_answers": [
+            "an"
+          ],
+          "distractors": [
+            "a"
+          ],
+          "hint": "Use *an* before a vowel sound.",
+          "feedback_correct": "Yes. *Earthquake* begins with a vowel sound, so we say *an earthquake*.",
+          "feedback_incorrect": "We say *an earthquake*, not *a earthquake*. Use *an* before a vowel sound. This is only a short reminder, not a long article drill.",
+          "feedback_by_option": {
+            "a": "Use *an* before a vowel sound: an earthquake.",
+            "an": "Correct."
+          }
+        },
+        {
+          "id": "s1-q10",
+          "type": "mcq",
+          "prompt": "Choose the correct article: _____ tsunami",
+          "options": [
+            "a",
+            "an"
+          ],
+          "answer": "a",
+          "acceptable_answers": [
+            "a"
+          ],
+          "distractors": [
+            "an"
+          ],
+          "hint": "Use *a* before a consonant sound.",
+          "feedback_correct": "Yes. *Tsunami* begins with a consonant sound, so we say *a tsunami*.",
+          "feedback_incorrect": "We say *a tsunami*. The first sound is a consonant sound.",
+          "feedback_by_option": {
+            "a": "Correct.",
+            "an": "Use *a* before a consonant sound: a tsunami."
+          }
+        }
+      ],
+      "scored_item_count": 10,
+      "optional": false,
+      "core": true
+    },
+    {
+      "id": "station-2",
+      "title": "too + adjective; go outdoors / go outside",
+      "title_zh": "第二站　too 加形容詞；go outdoors",
+      "student_direction_zh": "若句中已經有 too，請只選或只填形容詞，不要再寫 too。第 8 題句中未有 too，才需要寫出 too 加形容詞。表示到戶外應說 go outdoors 或 go outside。",
+      "skill": "too + adjective (fill the adjective only when too is already printed); go outdoors / go outside",
+      "rationale": "Task 3: *too drought* → *too dry*; *too narrow* → *too dangerous*; *go to outdoor* twice.",
+      "item_count": 8,
+      "items": [
+        {
+          "id": "s2-q1",
+          "type": "mcq",
+          "prompt": "People cannot grow crops during a drought because the land is too _____.",
+          "options": [
+            "drought",
+            "dry",
+            "wet",
+            "flood"
+          ],
+          "answer": "dry",
+          "hint": "After *too* we use an adjective, not a noun. The word *too* is already in the sentence, so write or choose only the adjective.",
+          "feedback_correct": "Yes. *Too* is already in the sentence, so the adjective is *dry*. The full phrase is *too dry*.",
+          "feedback_incorrect": "*Drought* is a noun. After *too* we need an adjective: too dry.",
+          "feedback_by_option": {
+            "drought": "This is the booklet Task 3 error. *Drought* is a noun. Say *too dry*.",
+            "dry": "Correct.",
+            "wet": "A drought makes the land dry, not wet.",
+            "flood": "*Flood* is a noun, and it is the opposite situation."
+          },
+          "acceptable_answers": [
+            "dry"
+          ],
+          "distractors": null
+        },
+        {
+          "id": "s2-q2",
+          "type": "mcq",
+          "prompt": "After a landslide, people cannot drive on the roads because the roads are too _____.",
+          "options": [
+            "narrow",
+            "dry",
+            "dangerous",
+            "bright"
+          ],
+          "answer": "dangerous",
+          "hint": "Think about safety, not only the width of the road. The word *too* is already in the sentence, so write or choose only the adjective.",
+          "feedback_correct": "Yes. The adjective is *dangerous*. The full phrase is *too dangerous*.",
+          "feedback_incorrect": "The marked answer in the booklet was *dangerous*, not *narrow*.",
+          "feedback_by_option": {
+            "narrow": "Grammatically *too narrow* is possible, but in Task 3 the teacher changed *narrow* to *dangerous*. The roads are unsafe.",
+            "dry": "A landslide is about fallen earth and rocks, not drought.",
+            "dangerous": "Correct.",
+            "bright": "That does not fit the meaning."
+          },
+          "acceptable_answers": [
+            "dangerous"
+          ],
+          "distractors": null
+        },
+        {
+          "id": "s2-q3",
+          "type": "gap_fill",
+          "prompt": "We could not use the towels because they were too _______. (Use one adjective.)",
+          "answer": "wet",
+          "acceptable_answers": [
+            "wet",
+            "damp"
+          ],
+          "hint": "The towels are full of water. Write only the adjective; *too* is already in the sentence.",
+          "feedback_correct": "Yes. *Too* + adjective: too wet.",
+          "feedback_incorrect": "Use an adjective after *too*. A good answer is *wet*.",
+          "options": null,
+          "distractors": null,
+          "feedback_by_option": null
+        },
+        {
+          "id": "s2-q4",
+          "type": "gap_fill",
+          "prompt": "The cubicle has no space for another cupboard because it is too _______.",
+          "answer": "small",
+          "acceptable_answers": [
+            "small",
+            "tiny",
+            "cramped"
+          ],
+          "hint": "There is not enough space. Write only the adjective; *too* is already in the sentence.",
+          "feedback_correct": "Yes. *Too small* shows the degree.",
+          "feedback_incorrect": "A clear adjective is *small*: the cubicle is too small.",
+          "options": null,
+          "distractors": null,
+          "feedback_by_option": null
+        },
+        {
+          "id": "s2-q5",
+          "type": "mcq",
+          "prompt": "If there is a typhoon, I cannot _____ because I could get hit by objects.",
+          "options": [
+            "go to outdoor",
+            "go outdoors",
+            "go to outdoors",
+            "go outdoor to"
+          ],
+          "answer": "go outdoors",
+          "hint": "*Outdoors* already means ‘outside’. You do not need *to*.",
+          "feedback_correct": "Yes. We say *go outdoors* or *go outside*, not *go to outdoor*.",
+          "feedback_incorrect": "In Task 3 *go to outdoor* appeared twice. The teacher crossed *to*. The standard form is *go outdoors* or *go outside*.",
+          "feedback_by_option": {
+            "go to outdoor": "This is the booklet wording that was marked. Drop *to* and use *outdoors*.",
+            "go outdoors": "Correct.",
+            "go to outdoors": "Do not use *to* before *outdoors*.",
+            "go outdoor to": "The word order is wrong. Use *go outdoors*."
+          },
+          "acceptable_answers": [
+            "go outdoors"
+          ],
+          "distractors": null
+        },
+        {
+          "id": "s2-q6",
+          "type": "mcq",
+          "prompt": "When there is a tornado, people should not _____.",
+          "options": [
+            "go outside",
+            "go to outdoor",
+            "go to outside",
+            "going outdoors"
+          ],
+          "answer": "go outside",
+          "hint": "Choose a natural verb phrase after *should not*.",
+          "feedback_correct": "Yes. *Should not go outside* is natural English.",
+          "feedback_incorrect": "Use *go outside* or *go outdoors*, not *go to outdoor*.",
+          "acceptable_answers": [
+            "go outside"
+          ],
+          "distractors": null,
+          "feedback_by_option": null
+        },
+        {
+          "id": "s2-q7",
+          "type": "mcq",
+          "prompt": "Which sentence is correct?",
+          "options": [
+            "The river is too flooding for boats to use.",
+            "The river is too flood for boats to use.",
+            "The river is too dangerous for boats to use.",
+            "The river is too drought for boats to use."
+          ],
+          "answer": "The river is too dangerous for boats to use.",
+          "hint": "*Too* needs an adjective.",
+          "feedback_correct": "Yes. *Dangerous* is an adjective after *too*.",
+          "feedback_incorrect": "*Flood* and *drought* are nouns; *flooding* is not the adjective we need here. Use *too dangerous* (or another adjective).",
+          "acceptable_answers": [
+            "The river is too dangerous for boats to use."
+          ],
+          "distractors": null,
+          "feedback_by_option": null
+        },
+        {
+          "id": "s2-q8",
+          "type": "gap_fill",
+          "prompt": "This sentence does not yet include *too*. Complete it with *too* and an adjective: I cannot read here because the room is ___________.",
+          "answer": "too dark",
+          "acceptable_answers": [
+            "too dark",
+            "too dim"
+          ],
+          "hint": "Here you should write two words, for example *too dark*, because *too* is not already in the sentence.",
+          "feedback_correct": "Yes. *Too dark* is the usual answer.",
+          "feedback_incorrect": "Write *too* and an adjective, for example *too dark*.",
+          "options": null,
+          "distractors": null,
+          "feedback_by_option": null
+        }
+      ],
+      "scored_item_count": 8,
+      "optional": false,
+      "core": true
+    },
+    {
+      "id": "station-3",
+      "title": "there is / there are with very little, very few and not enough",
+      "title_zh": "第三站　There is / There are 與數量（重點）",
+      "student_direction_zh": "請選出或寫出正確的句子。先判斷名詞是可數還是不可數，再決定用 is 還是 are，以及 very little、very few 或 not enough。若題目用數字說明「不夠分配」，請用 not enough。自由書寫時，若另一個數量語也文法正確、意思合理，將在答案說明中註明。",
+      "skill": "Subject–verb agreement with quantity phrases",
+      "rationale": "Task 6 (B+ 15/18): quantifiers often right; is/are often wrong. Largest station.",
+      "item_count": 12,
+      "items": [
+        {
+          "id": "s3-q1",
+          "type": "mcq",
+          "prompt": "Many people are thirsty, but _____ hot water.",
+          "options": [
+            "there are very little",
+            "there is very little",
+            "there is very few",
+            "there are very few"
+          ],
+          "answer": "there is very little",
+          "distractors": [
+            "there are very little",
+            "there is very few",
+            "there are very few"
+          ],
+          "hint": "Hot water is uncountable. Use *is* and *very little*.",
+          "feedback_correct": "Yes. *Water* is uncountable, so we say *there is very little hot water*. In free writing, *there is not enough hot water* would also be possible; it is not one of these options.",
+          "feedback_incorrect": "This is the Task 6 pattern. Do not say *there are very little* with an uncountable noun. The option here is *there is very little*. In free writing, *there is not enough hot water* would also be possible.",
+          "feedback_by_option": {
+            "there are very little": "Task 6 item 1 was marked this way. *Water* is uncountable: *there is very little*.",
+            "there is very little": "Correct.",
+            "there is very few": "*Very few* is for countable plural nouns, not *water*.",
+            "there are very few": "That would fit *cups* or *bottles*, not *hot water*."
+          },
+          "acceptable_answers": [
+            "there is very little"
+          ]
+        },
+        {
+          "id": "s3-q2",
+          "type": "mcq",
+          "prompt": "There are 30 people and only 19 blankets, so some people will have no blanket. _____ blankets.",
+          "options": [
+            "There is not enough",
+            "There are not enough",
+            "There is very little",
+            "There are very little"
+          ],
+          "answer": "There are not enough",
+          "distractors": [
+            "There is not enough",
+            "There is very little",
+            "There are very little"
+          ],
+          "hint": "The numbers show that there are not enough blankets for everyone. 19 blankets is not 'very few' here. *Blankets* is plural, so use *are*.",
+          "feedback_correct": "Yes. The numbers show that some people will have no blanket, so *there are not enough blankets*.",
+          "feedback_incorrect": "*Blankets* is plural, so use *are*, not *is*. The numeric clue points to *not enough*, not to a tiny number.",
+          "feedback_by_option": {
+            "There is not enough": "Task 6 item 2 was marked for this agreement error. Change *is* to *are*. The quantity *not enough* is right.",
+            "There are not enough": "Correct. The numbers show there are not enough blankets.",
+            "There is very little": "*Very little* is for uncountable nouns, and the verb would still be wrong.",
+            "There are very little": "*Very little* does not go with *blankets*."
+          },
+          "acceptable_answers": [
+            "There are not enough"
+          ]
+        },
+        {
+          "id": "s3-q3",
+          "type": "mcq",
+          "prompt": "Many people are hungry, but _____ food.",
+          "options": [
+            "there are very little",
+            "there is very little",
+            "there are very few",
+            "there is very few"
+          ],
+          "answer": "there is very little",
+          "distractors": [
+            "there are very little",
+            "there are very few",
+            "there is very few"
+          ],
+          "hint": "*Food* is usually uncountable here.",
+          "feedback_correct": "Yes. *There is very little food.* In free writing, *there is not enough food* would also be possible; it is not one of these options.",
+          "feedback_incorrect": "*Food* is uncountable: *there is very little food*, not *there are*. In free writing, *there is not enough food* would also be possible.",
+          "feedback_by_option": {
+            "there are very little": "Task 6 item 3 was marked for this. Use *is* with *food*.",
+            "there is very little": "Correct.",
+            "there are very few": "We would need a countable noun, e.g. *very few sandwiches*.",
+            "there is very few": "*Very few* does not go with *food*, and the agreement is also mixed."
+          },
+          "acceptable_answers": [
+            "there is very little"
+          ]
+        },
+        {
+          "id": "s3-q4",
+          "type": "mcq",
+          "prompt": "_____ hot water in the shelter. People are still thirsty.",
+          "options": [
+            "There are not enough",
+            "There is not enough",
+            "There are very few",
+            "There is very few"
+          ],
+          "answer": "There is not enough",
+          "distractors": [
+            "There are not enough",
+            "There are very few",
+            "There is very few"
+          ],
+          "hint": "*Water* is uncountable, even after *not enough*.",
+          "feedback_correct": "Yes. *There is not enough hot water.* In free writing, *there is very little hot water* would also be possible; it is not one of these options.",
+          "feedback_incorrect": "With uncountable *water*, use *there is not enough* (or, in free writing, *there is very little*).",
+          "feedback_by_option": {
+            "There are not enough": "Task 6 item 4 was marked for this. *Water* takes *is*.",
+            "There is not enough": "Correct.",
+            "There are very few": "That needs a plural noun, e.g. *cups*.",
+            "There is very few": "*Very few* is not used with *water*."
+          },
+          "acceptable_answers": [
+            "There is not enough"
+          ]
+        },
+        {
+          "id": "s3-q5",
+          "type": "mcq",
+          "prompt": "Only a small number of blankets arrived. _____ blankets.",
+          "options": [
+            "There is very few",
+            "There are very few",
+            "There is very little",
+            "There are very little"
+          ],
+          "answer": "There are very few",
+          "distractors": [
+            "There is very few",
+            "There is very little",
+            "There are very little"
+          ],
+          "hint": "*Very few* + plural noun + *are*.",
+          "feedback_correct": "Yes. *There are very few blankets.*",
+          "feedback_incorrect": "*Blankets* is plural: *there are very few*.",
+          "feedback_by_option": {
+            "There is very few": "Task 6 item 5 was marked for this. Use *are* with *very few blankets*.",
+            "There are very few": "Correct.",
+            "There is very little": "*Very little* is for uncountable nouns.",
+            "There are very little": "*Very little* does not go with *blankets*."
+          },
+          "acceptable_answers": [
+            "There are very few"
+          ]
+        },
+        {
+          "id": "s3-q6",
+          "type": "mcq",
+          "prompt": "People are still hungry. _____ food.",
+          "options": [
+            "There are not enough",
+            "There is not enough",
+            "There are very few",
+            "There is very few"
+          ],
+          "answer": "There is not enough",
+          "distractors": [
+            "There are not enough",
+            "There are very few",
+            "There is very few"
+          ],
+          "hint": "Uncountable *food* takes *is*.",
+          "feedback_correct": "Yes. *There is not enough food.* In free writing, *there is very little food* would also be possible; it is not one of these options.",
+          "feedback_incorrect": "Use *there is not enough food*, not *there are*. *There is very little food* would also be possible in free writing.",
+          "feedback_by_option": {
+            "There are not enough": "Task 6 item 6 was marked for this. *Food* takes *is*.",
+            "There is not enough": "Correct.",
+            "There are very few": "Use a countable noun with *very few*, e.g. *meals*.",
+            "There is very few": "This mixes the two patterns."
+          },
+          "acceptable_answers": [
+            "There is not enough"
+          ]
+        },
+        {
+          "id": "s3-q7",
+          "type": "mcq",
+          "prompt": "The families still need more beds. _____ beds.",
+          "options": [
+            "There is not enough",
+            "There are not enough",
+            "There is very little",
+            "There are very little"
+          ],
+          "answer": "There are not enough",
+          "distractors": [
+            "There is not enough",
+            "There is very little",
+            "There are very little"
+          ],
+          "hint": "This one was already correct in Task 6. Keep *are* with plural *beds*.",
+          "feedback_correct": "Yes. Plural *beds* takes *there are not enough*.",
+          "feedback_incorrect": "*Beds* is plural, so the verb is *are*.",
+          "feedback_by_option": null,
+          "acceptable_answers": [
+            "There are not enough"
+          ]
+        },
+        {
+          "id": "s3-q8",
+          "type": "mcq",
+          "prompt": "The village still has only a weak generator after the storm, so the supply is low. _____ electricity, and families must share one lamp.",
+          "options": [
+            "There are very little",
+            "There is very little",
+            "There are very few",
+            "There is very few"
+          ],
+          "answer": "There is very little",
+          "distractors": [
+            "There are very little",
+            "There are very few",
+            "There is very few"
+          ],
+          "hint": "The supply is low, not necessarily zero. *Electricity* is uncountable.",
+          "feedback_correct": "Yes. *There is very little electricity.* The sentence describes a low supply. In free writing, *there is not enough electricity* would also be possible; it is not one of these options.",
+          "feedback_incorrect": "*Electricity* is uncountable: use *is* and *very little* (or, in free writing, *not enough*). Do not use *are* or *very few*.",
+          "feedback_by_option": {
+            "There are very little": "Do not use *are* with uncountable *electricity*. Use *there is very little*.",
+            "There is very little": "Correct.",
+            "There are very few": "*Very few* is for countable plural nouns, and *are* does not agree with *electricity*.",
+            "There is very few": "*Very few* is not used with *electricity*."
+          },
+          "acceptable_answers": [
+            "There is very little"
+          ]
+        },
+        {
+          "id": "s3-q9",
+          "type": "mcq",
+          "prompt": "Only two volunteers came. _____ volunteers.",
+          "options": [
+            "There is very few",
+            "There are very few",
+            "There is very little",
+            "There are very little"
+          ],
+          "answer": "There are very few",
+          "distractors": [
+            "There is very few",
+            "There is very little",
+            "There are very little"
+          ],
+          "hint": "People are countable.",
+          "feedback_correct": "Yes. *There are very few volunteers.* In free writing, *there are not enough volunteers* would also be possible; it is not one of these options.",
+          "feedback_incorrect": "Use *are* and *very few* with a plural person noun. *There are not enough volunteers* would also be possible in free writing.",
+          "feedback_by_option": null,
+          "acceptable_answers": [
+            "There are very few"
+          ]
+        },
+        {
+          "id": "s3-q10",
+          "type": "mcq",
+          "prompt": "The hall cannot hold another table. _____ space.",
+          "options": [
+            "There are very little",
+            "There is very little",
+            "There are not enough space",
+            "There is very few"
+          ],
+          "answer": "There is very little",
+          "distractors": [
+            "There are very little",
+            "There are not enough space",
+            "There is very few"
+          ],
+          "hint": "*Space* in this meaning is uncountable.",
+          "feedback_correct": "Yes. *There is very little space.* In free writing, *there is not enough space* would also be possible; it is not one of these options.",
+          "feedback_incorrect": "*Space* here is uncountable: *there is very little space*. *There is not enough space* would also be possible in free writing.",
+          "feedback_by_option": {
+            "There are very little": "Use *is*, not *are*, with uncountable *space*.",
+            "There is very little": "Correct.",
+            "There are not enough space": "The verb and the noun do not agree. *Space* is uncountable: *there is not enough space* or *there is very little space*.",
+            "There is very few": "*Very few* is not used with uncountable *space*."
+          },
+          "acceptable_answers": [
+            "There is very little"
+          ]
+        },
+        {
+          "id": "s3-q11",
+          "type": "gap_fill",
+          "prompt": "Rewrite correctly: 'There are very little clean water.' Write the full corrected sentence.",
+          "answer": "There is very little clean water.",
+          "acceptable_answers": [
+            "There is very little clean water.",
+            "There is very little clean water",
+            "There is not enough clean water.",
+            "There is not enough clean water"
+          ],
+          "hint": "Change the verb so that it agrees with uncountable *water*. *There is very little clean water* and *There is not enough clean water* are both acceptable.",
+          "feedback_correct": "Yes. *Water* is uncountable, so we use *is*. Both *very little* and *not enough* are acceptable here.",
+          "feedback_incorrect": "The verb must be *is* with uncountable *water*. Acceptable answers include *There is very little clean water* and *There is not enough clean water*.",
+          "options": null,
+          "distractors": null,
+          "feedback_by_option": null
+        },
+        {
+          "id": "s3-q12",
+          "type": "gap_fill",
+          "prompt": "Rewrite correctly: 'There is not enough chairs.' Write the full corrected sentence.",
+          "answer": "There are not enough chairs.",
+          "acceptable_answers": [
+            "There are not enough chairs.",
+            "There are not enough chairs",
+            "There are very few chairs.",
+            "There are very few chairs"
+          ],
+          "hint": "*Chairs* is a plural noun. *There are not enough chairs* is the direct correction. *There are very few chairs* is also grammatical if you change the quantifier as well.",
+          "feedback_correct": "Yes. Plural *chairs* takes *are*.",
+          "feedback_incorrect": "Use *are* with plural *chairs*: *There are not enough chairs*. *There are very few chairs* is also accepted.",
+          "options": null,
+          "distractors": null,
+          "feedback_by_option": null
+        }
+      ],
+      "scored_item_count": 12,
+      "optional": false,
+      "core": true
+    },
+    {
+      "id": "station-4",
+      "title": "Reading: meaning in context and false statements",
+      "title_zh": "第四站　閱讀理解",
+      "student_direction_zh": "請先閱讀短文，再回答問題。詞義題請根據文章中的意思作答。第 3 題請選出兩個錯誤的陳述。用完整句子回答的題目，請注意句首大寫和句號。",
+      "skill": "Contextual meaning; identifying two false statements; complete-sentence answers",
+      "rationale": "Task 1: *hit* chosen as ‘popular song’; ‘which is false, choose two’ answered with one true statement only. This passage is original and is not the booklet China article.",
+      "item_count": 7,
+      "items": [
+        {
+          "id": "s4-q0-passage",
+          "type": "passage",
+          "prompt": "請仔細閱讀短文，然後回答下列問題。",
+          "passage_title": "After the Earthquake",
+          "passage_text": "Last winter, a strong earthquake shook Green Hill Village. The ground shook for almost a minute. Several old houses fell down and the main road cracked, so rescue vans could not reach some families at first.\n\nMr Ho, a nurse, said, 'We cannot stop an earthquake from happening. We can only prepare before the next one hits.' He said the government is training more rescue workers and checking old buildings so that people will be safer.\n\nBy evening, a rescue team had arrived with tents, water and first-aid kits. 'Food, water and shelters matter when people are hurt,' said Mr Ho. He told villagers to stay away from damaged walls, because they might still fall.",
+          "answer": "",
+          "acceptable_answers": [],
+          "hint": "",
+          "feedback_correct": "",
+          "feedback_incorrect": "",
+          "options": null,
+          "distractors": null,
+          "feedback_by_option": null
+        },
+        {
+          "id": "s4-q1",
+          "type": "mcq",
+          "prompt": "In paragraph 2, what does *hits* mean in ‘before the next one hits’?",
+          "options": [
+            "to press a button",
+            "to become a popular song",
+            "to happen or occur",
+            "to score a goal in a ball game"
+          ],
+          "answer": "to happen or occur",
+          "hint": "Read the sentence about the next earthquake.",
+          "feedback_correct": "Yes. Here *hits* means the earthquake happens or occurs. This is the same kind of question as *hit* in Task 1.",
+          "feedback_incorrect": "In this sentence *hits* does not mean a popular song. It means the earthquake happens.",
+          "feedback_by_option": {
+            "to press a button": "That is another meaning of *hit*, but not this one.",
+            "to become a popular song": "That was the Task 1 mistake (*hit* as a noun). Here *hits* is a verb meaning ‘happens’.",
+            "to happen or occur": "Correct.",
+            "to score a goal in a ball game": "That is a sports meaning, not this context."
+          },
+          "acceptable_answers": [
+            "to happen or occur"
+          ],
+          "distractors": null
+        },
+        {
+          "id": "s4-q2",
+          "type": "mcq",
+          "prompt": "What does *cracked* tell us about the main road?",
+          "options": [
+            "It became very clean",
+            "It broke and had lines in the surface",
+            "It was covered with snow",
+            "It was a popular place"
+          ],
+          "answer": "It broke and had lines in the surface",
+          "hint": "Look at why the rescue vans could not reach some families.",
+          "feedback_correct": "Yes. The road broke and was no longer safe or usable.",
+          "feedback_incorrect": "*Cracked* here means the road broke and had splits in it.",
+          "acceptable_answers": [
+            "It broke and had lines in the surface"
+          ],
+          "distractors": null,
+          "feedback_by_option": null
+        },
+        {
+          "id": "s4-q3",
+          "type": "multi_select",
+          "prompt": "Which of the following is false? Choose TWO answers.",
+          "options": [
+            "A. Several old houses fell down in Green Hill Village.",
+            "B. Mr Ho thinks people can stop earthquakes from happening.",
+            "C. The government is doing nothing to prepare for the next earthquake.",
+            "D. A rescue team arrived with tents, water and first-aid kits."
+          ],
+          "answer": [
+            "B. Mr Ho thinks people can stop earthquakes from happening.",
+            "C. The government is doing nothing to prepare for the next earthquake."
+          ],
+          "acceptable_answers": [
+            [
+              "B. Mr Ho thinks people can stop earthquakes from happening.",
+              "C. The government is doing nothing to prepare for the next earthquake."
+            ]
+          ],
+          "hint": "The question asks for the statements that are NOT true. You must choose two.",
+          "feedback_correct": "Yes. B and C are false. Mr Ho says we cannot stop an earthquake, and the government is training workers and checking buildings.",
+          "feedback_incorrect": "The two false statements are B and C. A and D are true in the passage. Remember to choose two answers.",
+          "feedback_by_option": {
+            "A. Several old houses fell down in Green Hill Village.": "This is true. Do not choose it.",
+            "B. Mr Ho thinks people can stop earthquakes from happening.": "This is false (a correct choice). He says they cannot be stopped.",
+            "C. The government is doing nothing to prepare for the next earthquake.": "This is false (a correct choice). They are training workers and checking buildings.",
+            "D. A rescue team arrived with tents, water and first-aid kits.": "This is true. Do not choose it."
+          },
+          "distractors": null
+        },
+        {
+          "id": "s4-q4",
+          "type": "short_answer",
+          "prompt": "Why could rescue vans not reach some families at first? Answer in a complete sentence.",
+          "answer": "The main road cracked, so rescue vans could not reach some families at first.",
+          "acceptable_answers": [
+            "The main road cracked, so rescue vans could not reach some families at first.",
+            "Rescue vans could not reach some families at first because the main road cracked.",
+            "Because the main road cracked, rescue vans could not reach some families at first.",
+            "The main road cracked and rescue vans could not reach some families."
+          ],
+          "hint": "Look at the first paragraph. Write a full sentence.",
+          "feedback_correct": "A complete sentence about the cracked road is right.",
+          "feedback_incorrect": "Mention the cracked main road, and write a complete sentence with a capital letter and a full stop.",
+          "options": null,
+          "distractors": null,
+          "feedback_by_option": null
+        },
+        {
+          "id": "s4-q5",
+          "type": "short_answer",
+          "prompt": "What is the government doing so that people will be safer? Answer in a complete sentence.",
+          "answer": "The government is training more rescue workers and checking old buildings.",
+          "acceptable_answers": [
+            "The government is training more rescue workers and checking old buildings.",
+            "It is training more rescue workers and checking old buildings so that people will be safer.",
+            "The government is training more rescue workers and checking old buildings so that people will be safer."
+          ],
+          "hint": "Look at Mr Ho’s words in paragraph 2.",
+          "feedback_correct": "Yes. Training rescue workers and checking old buildings is the preparation mentioned.",
+          "feedback_incorrect": "Use the ideas in paragraph 2: training more rescue workers and checking old buildings.",
+          "options": null,
+          "distractors": null,
+          "feedback_by_option": null
+        },
+        {
+          "id": "s4-q6",
+          "type": "short_answer",
+          "prompt": "Why did Mr Ho tell villagers to stay away from damaged walls? Answer in a complete sentence.",
+          "answer": "He told villagers to stay away from damaged walls because they might still fall.",
+          "acceptable_answers": [
+            "He told villagers to stay away from damaged walls because they might still fall.",
+            "Mr Ho told them to stay away from damaged walls because they might still fall.",
+            "The damaged walls might still fall."
+          ],
+          "hint": "The last sentence gives the reason.",
+          "feedback_correct": "Yes. The damaged walls might still fall.",
+          "feedback_incorrect": "The reason is that the damaged walls might still fall. Try to write a complete sentence.",
+          "options": null,
+          "distractors": null,
+          "feedback_by_option": null
+        },
+        {
+          "id": "s4-q7",
+          "type": "short_answer",
+          "prompt": "What did the rescue team arrive with? Answer in a complete sentence.",
+          "options": null,
+          "answer": "The rescue team arrived with tents, water and first-aid kits.",
+          "acceptable_answers": [
+            "The rescue team arrived with tents, water and first-aid kits.",
+            "A rescue team arrived with tents, water and first-aid kits.",
+            "They arrived with tents, water and first-aid kits.",
+            "It arrived with tents, water and first-aid kits."
+          ],
+          "distractors": null,
+          "hint": "Look at the last paragraph. Name the three things.",
+          "feedback_correct": "Yes. They arrived with tents, water and first-aid kits.",
+          "feedback_incorrect": "Mention tents, water and first-aid kits in a complete sentence.",
+          "feedback_by_option": null
+        }
+      ],
+      "scored_item_count": 7,
+      "optional": false,
+      "core": true
+    },
+    {
+      "id": "station-5",
+      "title": "Verb forms and has / have",
+      "title_zh": "第五站　動詞形式",
+      "student_direction_zh": "請填上或選出正確的動詞形式。注意時間（過去、現在、將來）以及主語是單數還是複數。",
+      "skill": "Past, present and future verb forms; has vs have",
+      "rationale": "Task 8 item 10 showed a *have/has/swept* problem. The new item uses *Last month… As a result… now*, so the past form is required by the new sentence itself, not by ruling out a tense that could be grammatical in a different *since*-clause.",
+      "item_count": 8,
+      "items": [
+        {
+          "id": "s5-q1",
+          "type": "gap_fill",
+          "prompt": "Last month, Typhoon Maya _____ (hit) the coastal town.",
+          "answer": "hit",
+          "acceptable_answers": [
+            "hit"
+          ],
+          "hint": "The past form of *hit* is the same as the base form.",
+          "feedback_correct": "Yes. The past form is *hit*.",
+          "feedback_incorrect": "The past form of *hit* is *hit*, not *hitted*.",
+          "options": null,
+          "distractors": null,
+          "feedback_by_option": null
+        },
+        {
+          "id": "s5-q2",
+          "type": "mcq",
+          "prompt": "Last month, the typhoon _____ away almost everything. As a result, many people do not have enough clothes now.",
+          "options": [
+            "have swept",
+            "has swept",
+            "swept",
+            "sweeping"
+          ],
+          "answer": "swept",
+          "hint": "*Last month* is a finished past time, so use the simple past. The subject *the typhoon* is singular.",
+          "feedback_correct": "Yes. With *last month*, use the simple past *swept*.",
+          "feedback_incorrect": "*Last month* points to a finished past time, so the clear form is *swept*. *Have swept* does not agree with singular *the typhoon*, and *has swept* does not fit naturally with *last month*.",
+          "feedback_by_option": {
+            "have swept": "The subject *the typhoon* is singular, so *have* is wrong. With *last month*, use *swept*.",
+            "has swept": "This present-perfect form does not fit well with the finished time *last month*. Use the simple past *swept*.",
+            "swept": "Correct.",
+            "sweeping": "That is not a finite verb for this sentence."
+          },
+          "acceptable_answers": [
+            "swept"
+          ],
+          "distractors": [
+            "have swept",
+            "has swept",
+            "sweeping"
+          ]
+        },
+        {
+          "id": "s5-q3",
+          "type": "mcq",
+          "prompt": "Choose the correct verb: The typhoon _____ destroyed many roofs.",
+          "options": [
+            "have",
+            "has",
+            "are",
+            "do"
+          ],
+          "answer": "has",
+          "hint": "*The typhoon* is one thing (singular).",
+          "feedback_correct": "Yes. Singular subject: *the typhoon has destroyed…*.",
+          "feedback_incorrect": "Use *has* with a singular subject, not *have*.",
+          "acceptable_answers": [
+            "has"
+          ],
+          "distractors": null,
+          "feedback_by_option": null
+        },
+        {
+          "id": "s5-q4",
+          "type": "mcq",
+          "prompt": "The huge waves _____ away the fishing boats.",
+          "options": [
+            "has swept",
+            "have swept",
+            "has sweep",
+            "having swept"
+          ],
+          "answer": "have swept",
+          "hint": "Now the subject is *waves* (plural).",
+          "feedback_correct": "Yes. Plural *waves* take *have swept*.",
+          "feedback_incorrect": "Plural subject → *have*, not *has*.",
+          "acceptable_answers": [
+            "have swept"
+          ],
+          "distractors": null,
+          "feedback_by_option": null
+        },
+        {
+          "id": "s5-q5",
+          "type": "gap_fill",
+          "prompt": "Last month, a storm hit the town. A week later, a rescue team _____ (arrive) with food.",
+          "answer": "arrived",
+          "acceptable_answers": [
+            "arrived"
+          ],
+          "hint": "This happened in the past.",
+          "feedback_correct": "Yes. *Arrived* is the past form.",
+          "feedback_incorrect": "Use the past form *arrived*.",
+          "options": null,
+          "distractors": null,
+          "feedback_by_option": null
+        },
+        {
+          "id": "s5-q6",
+          "type": "gap_fill",
+          "prompt": "The situation there _____ (be) under control now.",
+          "answer": "is",
+          "acceptable_answers": [
+            "is"
+          ],
+          "hint": "The time word is *now*.",
+          "feedback_correct": "Yes. *Now* points to the present: *is*.",
+          "feedback_incorrect": "With *now*, use *is*: The situation there is under control now.",
+          "options": null,
+          "distractors": null,
+          "feedback_by_option": null
+        },
+        {
+          "id": "s5-q7",
+          "type": "gap_fill",
+          "prompt": "Next month, volunteers _____ (build) some new houses.",
+          "answer": "will build",
+          "acceptable_answers": [
+            "will build",
+            "are going to build",
+            "will be building"
+          ],
+          "hint": "The time is *next month*.",
+          "feedback_correct": "Yes. *Will build* (or *are going to build*) shows the future.",
+          "feedback_incorrect": "Use a future form, e.g. *will build*.",
+          "options": null,
+          "distractors": null,
+          "feedback_by_option": null
+        },
+        {
+          "id": "s5-q8",
+          "type": "gap_fill",
+          "prompt": "As a result, many of the local people _____ (not have) enough clothes to wear now.",
+          "answer": "do not have",
+          "acceptable_answers": [
+            "do not have",
+            "don't have",
+            "do not have",
+            "don’t have"
+          ],
+          "hint": "The time word is *now*. Use the negative of *have* in the present, with a plural subject.",
+          "feedback_correct": "Yes. *Do not have* / *don’t have*.",
+          "feedback_incorrect": "With plural *people*, write *do not have* or *don’t have*, not *doesn’t have*.",
+          "options": null,
+          "distractors": null,
+          "feedback_by_option": null
+        }
+      ],
+      "scored_item_count": 8,
+      "optional": false,
+      "core": true
+    },
+    {
+      "id": "station-6",
+      "title": "Charity work vocabulary",
+      "title_zh": "第六站　慈善工作詞彙",
+      "student_direction_zh": "請選出最合適的單詞。*charity work*、*fundraising work*、*a charity event* 和 *a fundraising event* 都是正確的英語。其他題目請選出在該句中最自然的動詞。",
+      "skill": "Valid charity/fundraising phrases; collect then sell; raise / invite / sponsor",
+      "rationale": "Task 12’s once-only bank expected *charity work* and *a fundraising event*. Both *fundraising work* and *a charity event* are valid English in general. New items must not mark those alternatives as wrong.",
+      "item_count": 6,
+      "items": [
+        {
+          "id": "s6-q1",
+          "type": "multi_select",
+          "prompt": "Which of the following are correct English phrases? Choose ALL that apply.",
+          "options": [
+            "charity work",
+            "fundraising work",
+            "a charity event",
+            "a fundraising event"
+          ],
+          "answer": [
+            "charity work",
+            "fundraising work",
+            "a charity event",
+            "a fundraising event"
+          ],
+          "acceptable_answers": [
+            [
+              "charity work",
+              "fundraising work",
+              "a charity event",
+              "a fundraising event"
+            ]
+          ],
+          "distractors": [],
+          "hint": "Think about whether each phrase is natural English, not about a once-only word bank.",
+          "feedback_correct": "Yes. All four phrases are correct English. A textbook word bank may ask you to use each word once, but that does not make the other phrase wrong.",
+          "feedback_incorrect": "All four phrases are correct English: *charity work*, *fundraising work*, *a charity event* and *a fundraising event*. Do not treat one of them as an error.",
+          "feedback_by_option": {
+            "charity work": "Correct English (work done for a charity).",
+            "fundraising work": "Also correct English (work done to raise money).",
+            "a charity event": "Also correct English (an event for charity).",
+            "a fundraising event": "Also correct English (an event held to raise money)."
+          }
+        },
+        {
+          "id": "s6-q2",
+          "type": "mcq",
+          "prompt": "First they will collect the donated books and toys. Then they will _____ the things at a second-hand stall to raise money.",
+          "options": [
+            "collect",
+            "sell",
+            "invite",
+            "sponsor"
+          ],
+          "answer": "sell",
+          "acceptable_answers": [
+            "sell"
+          ],
+          "distractors": [
+            "collect",
+            "invite",
+            "sponsor"
+          ],
+          "hint": "The donations have already been collected. The next step at the stall is to sell them.",
+          "feedback_correct": "Yes. They *collect* the donations first, then *sell* them at the stall to *raise* money.",
+          "feedback_incorrect": "Do not use *collect* again for the stall. After collecting the things, they *sell* them at the stall.",
+          "feedback_by_option": {
+            "collect": "They have already collected the donations. The next action at the stall is *sell*.",
+            "sell": "Correct.",
+            "invite": "*Invite* is for asking people to come and help.",
+            "sponsor": "*Sponsor* is for paying some of the costs."
+          }
+        },
+        {
+          "id": "s6-q3",
+          "type": "mcq",
+          "prompt": "They will _____ their classmates to bring old books and toys.",
+          "options": [
+            "raise",
+            "invite",
+            "sponsor",
+            "perform"
+          ],
+          "answer": "invite",
+          "hint": "They ask classmates to come and help.",
+          "feedback_correct": "Yes. *Invite* means ask someone to join.",
+          "feedback_incorrect": "The verb for asking classmates to join is *invite*.",
+          "acceptable_answers": [
+            "invite"
+          ],
+          "distractors": null,
+          "feedback_by_option": null
+        },
+        {
+          "id": "s6-q4",
+          "type": "mcq",
+          "prompt": "They can sell the old things at a stall to _____ money for the children’s home.",
+          "options": [
+            "collect",
+            "raise",
+            "support",
+            "organise"
+          ],
+          "answer": "raise",
+          "hint": "The usual collocation is *raise money*.",
+          "feedback_correct": "Yes. We *raise money* for a cause.",
+          "feedback_incorrect": "Use *raise money*. *Collect* is better for collecting things (books, uniforms).",
+          "acceptable_answers": [
+            "raise"
+          ],
+          "distractors": null,
+          "feedback_by_option": null
+        },
+        {
+          "id": "s6-q5",
+          "type": "mcq",
+          "prompt": "They will _____ old uniforms from their classmates before the sale.",
+          "options": [
+            "raise",
+            "sponsor",
+            "collect",
+            "perform"
+          ],
+          "answer": "collect",
+          "hint": "They gather the uniforms first.",
+          "feedback_correct": "Yes. *Collect* old uniforms, then *raise* money by selling them.",
+          "feedback_incorrect": "*Collect* goes with the things; *raise* goes with the money.",
+          "acceptable_answers": [
+            "collect"
+          ],
+          "distractors": null,
+          "feedback_by_option": null
+        },
+        {
+          "id": "s6-q6",
+          "type": "mcq",
+          "prompt": "Peter hopes a local shop will _____ the event by paying some of the costs.",
+          "options": [
+            "sponsor",
+            "collect",
+            "invite",
+            "travel"
+          ],
+          "answer": "sponsor",
+          "hint": "Paying some of the costs is what a sponsor does.",
+          "feedback_correct": "Yes. A company that pays some costs *sponsors* the event.",
+          "feedback_incorrect": "The verb for paying some of the costs is *sponsor*.",
+          "acceptable_answers": [
+            "sponsor"
+          ],
+          "distractors": null,
+          "feedback_by_option": null
+        }
+      ],
+      "scored_item_count": 6,
+      "optional": false,
+      "core": true
+    },
+    {
+      "id": "station-7",
+      "title": "Question words, especially How often vs When",
+      "title_zh": "第七站　疑問詞",
+      "student_direction_zh": "請根據答句，選出或填上正確的疑問詞。特別留意 How often（頻率）與 When（時間點）的分別。",
+      "skill": "Wh-words; How often vs When; How much vs How many",
+      "rationale": "Task 13 B3: *When* crossed, teacher wrote *How often* because the reply was a frequency.",
+      "item_count": 6,
+      "items": [
+        {
+          "id": "s7-q1",
+          "type": "mcq",
+          "prompt": "Pat: _____ do you go to the community centre?\nSam: I go there twice a week, on Tuesday and Saturday.",
+          "options": [
+            "When",
+            "How often",
+            "How much",
+            "Where"
+          ],
+          "answer": "How often",
+          "hint": "The answer is *twice a week*. That tells us the frequency, not one clock time.",
+          "feedback_correct": "Yes. *How often* asks about frequency.",
+          "feedback_incorrect": "Task 13 used *When* here and it was marked wrong. *Twice a week* answers *How often*.",
+          "feedback_by_option": {
+            "When": "This was the booklet error. *When* asks for a time such as ‘at nine o’clock’ or ‘on Saturday’.",
+            "How often": "Correct.",
+            "How much": "That asks about an amount of money or an uncountable quantity.",
+            "Where": "That asks about a place."
+          },
+          "acceptable_answers": [
+            "How often"
+          ],
+          "distractors": null
+        },
+        {
+          "id": "s7-q2",
+          "type": "mcq",
+          "prompt": "Pat: _____ do you start on Saturday?\nSam: We start at nine o’clock.",
+          "options": [
+            "How often",
+            "When",
+            "How many",
+            "Why"
+          ],
+          "answer": "When",
+          "hint": "The answer is a clock time.",
+          "feedback_correct": "Yes. *At nine o’clock* answers *When*.",
+          "feedback_incorrect": "A clock time answers *When*, not *How often*.",
+          "acceptable_answers": [
+            "When"
+          ],
+          "distractors": null,
+          "feedback_by_option": null
+        },
+        {
+          "id": "s7-q3",
+          "type": "gap_fill",
+          "prompt": "Hello, Pat! _____ are you?",
+          "answer": "How",
+          "acceptable_answers": [
+            "How"
+          ],
+          "hint": "This is a greeting.",
+          "feedback_correct": "Yes. *How are you?*",
+          "feedback_incorrect": "The usual greeting is *How are you?*",
+          "options": null,
+          "distractors": null,
+          "feedback_by_option": null
+        },
+        {
+          "id": "s7-q4",
+          "type": "gap_fill",
+          "prompt": "I’m fine, thanks. _____ are you going?",
+          "answer": "Where",
+          "acceptable_answers": [
+            "Where"
+          ],
+          "hint": "Sam is on his way to a place.",
+          "feedback_correct": "Yes. *Where are you going?*",
+          "feedback_incorrect": "Use *Where* to ask about a place.",
+          "options": null,
+          "distractors": null,
+          "feedback_by_option": null
+        },
+        {
+          "id": "s7-q5",
+          "type": "mcq",
+          "prompt": "_____ did the centre pay for the last box of milk?\nIt was forty dollars.",
+          "options": [
+            "How many",
+            "How much",
+            "How often",
+            "When"
+          ],
+          "answer": "How much",
+          "hint": "The answer is an amount of money.",
+          "feedback_correct": "Yes. *How much* asks about money or uncountable amounts.",
+          "feedback_incorrect": "Money takes *How much*, not *How many*.",
+          "acceptable_answers": [
+            "How much"
+          ],
+          "distractors": null,
+          "feedback_by_option": null
+        },
+        {
+          "id": "s7-q6",
+          "type": "mcq",
+          "prompt": "_____ bags of rice do you usually give out?\nAbout twenty bags.",
+          "options": [
+            "How much",
+            "How many",
+            "How often",
+            "Who"
+          ],
+          "answer": "How many",
+          "hint": "*Bags* is a countable plural noun.",
+          "feedback_correct": "Yes. *How many* + a countable plural noun.",
+          "feedback_incorrect": "Use *How many* with *bags*, because *bags* can be counted.",
+          "acceptable_answers": [
+            "How many"
+          ],
+          "distractors": null,
+          "feedback_by_option": null
+        }
+      ],
+      "scored_item_count": 6,
+      "optional": false,
+      "core": true
+    },
+    {
+      "id": "station-8",
+      "title": "Optional extension: Shall we…? and either…or",
+      "title_zh": "選修延伸　Shall we…? 與 either…or（非核心）",
+      "student_direction_zh": "這是選修延伸，不是本次核心練習，也不是根據已批改的錯題而設。本單元在練習簿第 1 頁列出這兩項學習目標，可按需要選做或略過。Shall we 後用動詞原形；表示兩個選擇時用 either…or。",
+      "skill": "Shall we + base verb; either…or",
+      "rationale": "These forms appear as goals 6–7 on in-scope P.1. There is no marked error on them in the in-scope work. This station is optional, not core, and is not based on out-of-scope pages.",
+      "item_count": 5,
+      "items": [
+        {
+          "id": "s8-q1",
+          "type": "mcq",
+          "prompt": "Choose the correct suggestion.",
+          "options": [
+            "Shall we to collect old uniforms?",
+            "Shall we collect old uniforms?",
+            "Shall we collecting old uniforms?",
+            "Shall we collects old uniforms?"
+          ],
+          "answer": "Shall we collect old uniforms?",
+          "hint": "After *Shall we*, use the base form of the verb.",
+          "feedback_correct": "Yes. *Shall we* + base verb: Shall we collect…?",
+          "feedback_incorrect": "Do not use *to*, *-ing* or *-s* after *Shall we*.",
+          "feedback_by_option": {
+            "Shall we to collect old uniforms?": "Drop *to*. Use the base verb *collect*.",
+            "Shall we collect old uniforms?": "Correct.",
+            "Shall we collecting old uniforms?": "Use *collect*, not *collecting*.",
+            "Shall we collects old uniforms?": "Do not add *-s* after *we*."
+          },
+          "acceptable_answers": [
+            "Shall we collect old uniforms?"
+          ],
+          "distractors": null
+        },
+        {
+          "id": "s8-q2",
+          "type": "gap_fill",
+          "prompt": "Complete the suggestion: Shall we _____ the elderly home this Saturday? (Use the verb *visit*.)",
+          "answer": "visit",
+          "acceptable_answers": [
+            "visit"
+          ],
+          "hint": "Use the verb without *to*.",
+          "feedback_correct": "Yes. Shall we visit the elderly home this Saturday?",
+          "feedback_incorrect": "Write only the base verb *visit*.",
+          "options": null,
+          "distractors": null,
+          "feedback_by_option": null
+        },
+        {
+          "id": "s8-q3",
+          "type": "mcq",
+          "prompt": "Choose the correct sentence about two alternatives.",
+          "options": [
+            "We can either donate money or give our time.",
+            "We can either donate money nor give our time.",
+            "We can either donate money and give our time.",
+            "We can either donate money or giving our time."
+          ],
+          "answer": "We can either donate money or give our time.",
+          "hint": "The pair is *either…or*, and the two parts should be in the same form.",
+          "feedback_correct": "Yes. *Either…or* links two equal choices.",
+          "feedback_incorrect": "Use *either…or*, not *nor* or *and*, and keep both verbs in the same form.",
+          "acceptable_answers": [
+            "We can either donate money or give our time."
+          ],
+          "distractors": null,
+          "feedback_by_option": null
+        },
+        {
+          "id": "s8-q4",
+          "type": "gap_fill",
+          "prompt": "Rewrite with *either…or*: We can make posters. We can pack the gift bags. (This afternoon.) Write one sentence starting with *We can either*.",
+          "answer": "We can either make posters or pack the gift bags this afternoon.",
+          "acceptable_answers": [
+            "We can either make posters or pack the gift bags this afternoon.",
+            "We can either pack the gift bags or make posters this afternoon.",
+            "We can either make posters or pack the gift bags.",
+            "We can either pack the gift bags or make posters."
+          ],
+          "hint": "Keep both verbs in the same form after *either* and *or*.",
+          "feedback_correct": "Yes. *Either…or* joins the two actions.",
+          "feedback_incorrect": "A model is: We can either make posters or pack the gift bags this afternoon.",
+          "options": null,
+          "distractors": null,
+          "feedback_by_option": null
+        },
+        {
+          "id": "s8-q5",
+          "type": "mcq",
+          "prompt": "Which sentence is a polite suggestion?",
+          "options": [
+            "Shall we sell old books at a second-hand stall?",
+            "Either we shall sell old books at a second-hand stall?",
+            "Shall we selling old books at a second-hand stall?",
+            "We shall either to sell old books?"
+          ],
+          "answer": "Shall we sell old books at a second-hand stall?",
+          "hint": "A suggestion often starts with *Shall we* + base verb.",
+          "feedback_correct": "Yes. That is a clear *Shall we…?* suggestion.",
+          "feedback_incorrect": "Start with *Shall we* and use the base verb *sell*.",
+          "acceptable_answers": [
+            "Shall we sell old books at a second-hand stall?"
+          ],
+          "distractors": null,
+          "feedback_by_option": null
+        }
+      ],
+      "label": "optional_extension_not_core",
+      "scored_item_count": 5,
+      "optional": true,
+      "core": false
+    }
+  ]
+}
